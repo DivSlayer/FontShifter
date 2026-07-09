@@ -6,8 +6,8 @@
 
 **فونت هر وب‌سایتی را تغییر دهید — با تنظیمات جداگانه برای هر سایت یا سراسری، و جهت راست‌به‌چپ اختیاری.**
 
-[![Microsoft Edge Add-ons](https://img.shields.io/badge/Microsoft%20Edge-Add--ons-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/YOUR_STORE_ID)
-[![دانلود ZIP](https://img.shields.io/badge/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86%20%D9%86%D8%B3%D8%AE%D9%87-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)
+[![Microsoft Edge Add-ons](https://img.shields.io/badge/Microsoft%20Edge-Add--ons-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/fontshifter/fkmmebmnphbkflalkijaelpbgiddeagj)
+[![دانلود ZIP](https://img.shields.io/badge/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86%20%D9%86%D8%B3%D8%AE%D9%87-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DivSlayer/FontShifter/releases/latest)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#-مجوز)
 
 [English](README.md) · **فارسی**
@@ -36,14 +36,11 @@
 
 <div align="center">
 
-### [⬅️ دریافت FontShifter از فروشگاه Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/YOUR_STORE_ID)
+### [⬅️ دریافت FontShifter از فروشگاه Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/fontshifter/fkmmebmnphbkflalkijaelpbgiddeagj)
 
 </div>
 
 <div dir="rtl">
-
-> **توجه:** پیش از انتشار، عبارت `YOUR_STORE_ID` را با شناسه‌ی واقعی صفحه‌ی افزونه جایگزین کنید.
-
 ---
 
 ## 🧩 استفاده در Edge از طریق «Load Unpacked»
@@ -58,7 +55,7 @@
 
 <div align="center">
 
-### [⬇️ دانلود آخرین نسخه (ZIP)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)
+### [⬇️ دانلود آخرین نسخه (ZIP)](https://github.com/DivSlayer/FontShifter/releases/latest)
 
 </div>
 

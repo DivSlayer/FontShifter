@@ -7,7 +7,7 @@
 **Change the fonts of any website — with per-site or global settings and optional right-to-left direction.**
 
 [![Microsoft Edge Add-ons](https://img.shields.io/badge/Microsoft%20Edge-Add--ons-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/YOUR_STORE_ID)
-[![Download ZIP](https://img.shields.io/badge/Download-Latest%20Release-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)
+[![Download ZIP](https://img.shields.io/badge/Download-Latest%20Release-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DivSlayer/FontShifter/releases/latest)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#-license)
 
 **English** · [فارسی](README.fa.md)
@@ -32,11 +32,9 @@ The easiest way to install — one click, with automatic updates:
 
 <div align="center">
 
-### [➡️ Get FontShifter on the Microsoft Edge Add-ons store](https://microsoftedge.microsoft.com/addons/detail/YOUR_STORE_ID)
+### [➡️ Get FontShifter on the Microsoft Edge Add-ons store](https://microsoftedge.microsoft.com/addons/detail/fontshifter/fkmmebmnphbkflalkijaelpbgiddeagj)
 
 </div>
-
-> **Note:** Replace `YOUR_STORE_ID` with the real listing ID before publishing.
 
 ---
 
@@ -50,7 +48,7 @@ Grab the latest packaged release here:
 
 <div align="center">
 
-### [⬇️ Download the latest release ZIP](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)
+### [⬇️ Download the latest release ZIP](https://github.com/DivSlayer/FontShifter/releases/latest)
 
 </div>
 
