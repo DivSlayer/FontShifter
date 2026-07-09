@@ -1,0 +1,105 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>FontShifter</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+
+<body>
+  <style>
+    @font-face {
+      font-family: 'Dana';
+      src: url('/fonts/Dana.woff2') format('woff2');
+      font-weight: 400;
+      font-style: normal;
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'IRANSans';
+      src: url('/fonts/IRANSans.woff2') format('woff2');
+      font-weight: 400;
+      font-style: normal;
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'Vazir';
+      src: url('/fonts/Vazir.woff2') format('woff2');
+      font-weight: 400;
+      font-style: normal;
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'Dana';
+      src: url('/fonts/Dana.woff2') format('woff2');
+      font-weight: 400;
+      font-style: normal;
+      font-display: swap;
+    }
+  </style>
+  <div class="container">
+    <!-- Header with Brand Logo/Watermark -->
+    <div class="brand-header">
+      <span class="brand-icon"><img src="./icons/icon128.png" height="32px" /></span>
+      <h1 class="brand-name">FontShifter</h1>
+    </div>
+
+    <!-- Hostname Badge -->
+    <div class="hostname-container">
+      <span class="hostname-label">Current Site:</span>
+      <p id="hostname" class="hostname-badge">Loading...</p>
+    </div>
+
+    <form id="fontsForm">
+      <!-- Custom styled radio buttons structure -->
+      <div class="radio-group">
+        <input type="radio" id="font-dana" name="font" value="Dana">
+        <label for="font-dana" class="radio-label" style="font-family: 'Dana', sans-serif !important;">
+          <span class="radio-custom"></span>
+          دانا
+        </label>
+      </div>
+      <div class="radio-group">
+        <input type="radio" id="font-iransans" name="font" value="IRANSans">
+        <label for="font-iransans" class="radio-label" style="font-family: 'IRANSans', sans-serif !important;">
+          <span class="radio-custom"></span>
+          ایران‌سنس
+        </label>
+      </div>
+      <div class="radio-group">
+        <input type="radio" id="font-vazir" name="font" value="Vazir">
+        <label for="font-vazir" class="radio-label" style="font-family: 'Vazir', sans-serif !important;">
+          <span class="radio-custom"></span>
+          وزیر
+        </label>
+      </div>
+
+      <div class="radio-group">
+        <input type="radio" id="font-none" name="font" value="none">
+        <label for="font-none" class="radio-label">
+          <span class="radio-custom"></span>
+          Restore Default
+        </label>
+      </div>
+    </form>
+
+    <!-- Text direction — independent of the font choice above -->
+    <div class="checkbox-group">
+      <input type="checkbox" id="rtlToggle" checked>
+      <label for="rtlToggle" class="checkbox-label">
+        <span class="checkbox-custom"></span>
+        Right-to-left (RTL)
+      </label>
+    </div>
+
+    <div class="actions">
+      <button id="saveSiteBtn" class="btn btn-primary">Save for This Site</button>
+      <button id="saveGlobalBtn" class="btn btn-secondary">Set as Global</button>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+
+</html>
